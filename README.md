@@ -61,7 +61,7 @@ This project consists of the following key components:
 5. **Model Training (Optional)**:
    - Check the included Jupyter Notebook (`traffic_model_training.ipynb`) for model training details.
 
-## AWS Bedrock Integration (Optional)
+## AWS Bedrock Integration
 
 ### Architecture Workflow Diagram
 
