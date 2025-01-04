@@ -83,7 +83,7 @@ graph TD;
 ## Example Screenshots
 
 ### Dashboard:
-- ![Traffic Congestion Dashboard](path/to/dashboard-image.png)
+- ![Traffic Congestion Dashboard](Traffic-Congestion-Predictor/dashboard-image.png)
 
 ## Future Enhancements
 
