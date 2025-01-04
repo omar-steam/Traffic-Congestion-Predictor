@@ -80,11 +80,6 @@ graph TD;
   - Deploy the app on **AWS EC2**.
   - Use **AWS Lambda** to connect the app with Bedrock APIs for additional recommendations.
 
-## Example Screenshots
-
-### Dashboard:
-- ![Traffic Congestion Dashboard](Traffic-Congestion-Predictor/dashboard-image.png)
-
 ## Future Enhancements
 
 - Integration with real-time traffic APIs (e.g., Google Maps, HERE Technologies).
