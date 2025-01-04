@@ -1,10 +1,6 @@
 # Traffic-Congestion-Predictor
 This project is designed to predict real-time traffic congestion levels using machine learning, interactive visualisations, and environmental factors.
 
-# AI-Powered Traffic Congestion Predictor
-
-Welcome to the **AI-powered Traffic Congestion Predictor** repository! This project is designed to predict real-time traffic congestion levels using machine learning, interactive visualizations, and environmental factors. The app is built with **Streamlit** and integrates model predictions for smarter urban planning and commute optimization.
-
 ## Features
 
 - **Interactive Dashboard**: Predict traffic congestion levels based on real-time inputs.
